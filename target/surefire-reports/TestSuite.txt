@@ -1,0 +1,25 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 5, Failures: 3, Errors: 0, Skipped: 0, Time elapsed: 5.947 sec <<< FAILURE! - in TestSuite
+test_addNewVideoGames(Sdet.TC_VideoGameAPI)  Time elapsed: 0.865 sec  <<< FAILURE!
+java.lang.AssertionError: 
+1 expectation failed.
+Expected status code <200> but was <500>.
+
+	at Sdet.TC_VideoGameAPI.test_addNewVideoGames(TC_VideoGameAPI.java:54)
+
+test_getVideoGame(Sdet.TC_VideoGameAPI)  Time elapsed: 0.076 sec  <<< FAILURE!
+java.lang.AssertionError: 
+1 expectation failed.
+Expected status code <200> but was <500>.
+
+	at Sdet.TC_VideoGameAPI.test_getVideoGame(TC_VideoGameAPI.java:73)
+
+test_updateVideoGame(Sdet.TC_VideoGameAPI)  Time elapsed: 0.165 sec  <<< FAILURE!
+java.lang.AssertionError: 
+1 expectation failed.
+Expected status code <200> but was <500>.
+
+	at Sdet.TC_VideoGameAPI.test_updateVideoGame(TC_VideoGameAPI.java:98)
+

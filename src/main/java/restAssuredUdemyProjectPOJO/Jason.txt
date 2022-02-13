@@ -1,0 +1,58 @@
+{
+  "instructor" : "RahuleShetty",
+  "url" : "reahuleshettyacademy.com",
+  "services" : "projectSupport",
+  "expertise" : "Automation",
+  
+  
+  "Courses": {
+      "WebAutomation": [
+        {
+            "courseTitle" : "Selenium ",
+            "price": "50"
+        },
+         {
+            "courseTitle" : "Cypress" ,
+            "price": "40"
+        },
+         {
+            "courseTitle" : "Protactor",
+            "price": "40"
+        }
+        ],
+    
+    "API": [
+        {
+            "courseTitle" : "Selenium ",
+            "price": "50"
+        },
+         {
+            "courseTitle" : "Cypress ",
+            "price": "40"
+        },
+         {
+            "courseTitle" : "Protactor ",
+            "price": "40"
+        }
+        ],
+        "Mobile": [
+        {
+            "courseTitle" : "Selenium ",
+            "price": "50"
+        },
+         {
+            "courseTitle" : "Cypress ",
+            "price": "40"
+        },
+         {
+            "courseTitle" : "Protactor ",
+            "price": "40"
+        }
+       
+        ]
+     
+    
+        },
+       "linkdin" : "Automation.com"
+        
+}
